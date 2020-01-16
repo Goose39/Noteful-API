@@ -1,0 +1,488 @@
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"BookmarksService is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"serializeBookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1","level":"error"}
+{"message":"Note with id 1 not found.","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/1","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1","level":"error"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Unauthorized request to path: /folders","level":"error"}
+{"message":"Unauthorized request to path: /notes","level":"error"}
+{"message":"Unauthorized request to path: /folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"FoldersService.insertArticle is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"serializeArticle is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"newNote is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"newNote is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"id is required","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/11","level":"error"}
+{"message":"Bookmark with id 11 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/b605862e-676f-44f8-bc61-10bd526c5e77","level":"error"}
+{"message":"Bookmark with id b605862e-676f-44f8-bc61-10bd526c5e77 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/30c0b3a7-d93f-4e58-b136-36bb9beb6958","level":"error"}
+{"message":"Bookmark with id 30c0b3a7-d93f-4e58-b136-36bb9beb6958 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/447984e3-14b0-4f91-bfa4-bb2231677709","level":"error"}
+{"message":"Bookmark with id 447984e3-14b0-4f91-bfa4-bb2231677709 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"note_name\") values ($1, $2, $3) returning * - null value in column \"id\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"da33e-b236-abc-d681-b6a6734f5b6f\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"357244b-3751-5d15-c407-5c2755abbcc\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"235aa4-f554-5c66-6f5b-51a8e4def007\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"285bba6-37c6-c213-e1de-12153dee2e5\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"37fed-286a-e5c0-8d27-db6b8b08a73\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"73712-ca3f-3c63-756a-1bcf8b88e63\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"74000e2-6dff-de-307-4fe121d068b6\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, $3, $4) returning * - invalid input syntax for type uuid: \"ae55af-15f7-cf3-0d0-833772eb20\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"insert into \"noteful_folders\" (\"folder_name\", \"id\") values ($1, $2) returning * - invalid input syntax for type uuid: \"ca06f7-dc2f-e10e-b182-ff51f5bba27\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"folder is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"folder is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/9608e081-a089-4cd0-a2df-d30e2936b3e1","level":"error"}
+{"message":"Bookmark with id 9608e081-a089-4cd0-a2df-d30e2936b3e1 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/1c5869f0-c7d4-4bbd-922e-4f0911a54b71","level":"error"}
+{"message":"Bookmark with id 1c5869f0-c7d4-4bbd-922e-4f0911a54b71 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"insert into \"noteful_folders\" (\"folder_name\", \"id\") values ($1, $2) returning * - invalid input syntax for type uuid: \"135e2-d1c4-c4e2-c5f8-6700ef5aa3\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/af5ed6dd-4556-4330-bf70-726e6e702579","level":"error"}
+{"message":"Bookmark with id af5ed6dd-4556-4330-bf70-726e6e702579 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/3c3f030c-ca4b-487d-b269-21e89572fe92","level":"error"}
+{"message":"Bookmark with id 3c3f030c-ca4b-487d-b269-21e89572fe92 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/3c3f030c-ca4b-487d-b269-21e89572fe92","level":"error"}
+{"message":"Note with id 3c3f030c-ca4b-487d-b269-21e89572fe92 not found.","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/6f303992-c0cb-42c2-891d-2e584d1c37ce","level":"error"}
+{"message":"Bookmark with id 6f303992-c0cb-42c2-891d-2e584d1c37ce deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/580e8864-01b0-4832-971d-56035b46fb04","level":"error"}
+{"message":"Bookmark with id 580e8864-01b0-4832-971d-56035b46fb04 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/c26dc13d-b7f6-48bd-8649-cf81507abef1","level":"error"}
+{"message":"Bookmark with id c26dc13d-b7f6-48bd-8649-cf81507abef1 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/undefined","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type uuid: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/c6f028dd-8248-4dc9-aa2c-f3aee831df0d","level":"error"}
+{"message":"Bookmark with id c6f028dd-8248-4dc9-aa2c-f3aee831df0d deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/83ef8789-d981-4863-8e5c-fda662c32cff","level":"error"}
+{"message":"Bookmark with id 83ef8789-d981-4863-8e5c-fda662c32cff deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/f59b406f-2f51-433c-969d-445973705a8e","level":"error"}
+{"message":"Bookmark with id f59b406f-2f51-433c-969d-445973705a8e deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/3723267a-676a-446f-bc85-b4c8ee170aaa","level":"error"}
+{"message":"Bookmark with id 3723267a-676a-446f-bc85-b4c8ee170aaa deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/8f735572-aa91-41c8-aa2b-575a00c908df","level":"error"}
+{"message":"Bookmark with id 8f735572-aa91-41c8-aa2b-575a00c908df deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/b1b9b96d-a6be-4cf0-8ed6-40b4b13fb53b","level":"error"}
+{"message":"Bookmark with id b1b9b96d-a6be-4cf0-8ed6-40b4b13fb53b deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/4d91f928-7b01-4c08-9898-a82137b53f1c","level":"error"}
+{"message":"Bookmark with id 4d91f928-7b01-4c08-9898-a82137b53f1c deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/undefined","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type uuid: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/5f6c5c49-9410-4e35-bfa9-4960feb9fd17","level":"error"}
+{"message":"Bookmark with id 5f6c5c49-9410-4e35-bfa9-4960feb9fd17 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/500bb353-75c4-4a7b-a6bf-0169621a57bb","level":"error"}
+{"message":"Bookmark with id 500bb353-75c4-4a7b-a6bf-0169621a57bb deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/fbd414f2-201c-483d-8563-7f7eb3dee94a","level":"error"}
+{"message":"Bookmark with id fbd414f2-201c-483d-8563-7f7eb3dee94a deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/fa090039-6894-4144-9727-34fcbbb8d6cd","level":"error"}
+{"message":"Bookmark with id fa090039-6894-4144-9727-34fcbbb8d6cd deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/02f845c4-e5cc-4416-b14d-788d41223976","level":"error"}
+{"message":"Bookmark with id 02f845c4-e5cc-4416-b14d-788d41223976 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/38630ab1-fda5-4c92-a049-8387627d8081","level":"error"}
+{"message":"Bookmark with id 38630ab1-fda5-4c92-a049-8387627d8081 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/undefined","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type uuid: \"undefined\"","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/78e2ae73-49e1-47e7-90bb-8fe5c6fc6c1e","level":"error"}
+{"message":"Bookmark with id 78e2ae73-49e1-47e7-90bb-8fe5c6fc6c1e deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderid\", \"id\", \"note_name\") values ($1, $2, DEFAULT, $3) returning * - null value in column \"id\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/7f0d0435-6620-450b-9187-7d36c8d0a85e","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"noteful_notes\" where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/cd7f828a-448a-4598-aefa-a79ae4aec62c","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"noteful_notes\" where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/cd7f828a-448a-4598-aefa-a79ae4aec62c","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"noteful_notes\" where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/cd7f828a-448a-4598-aefa-a79ae4aec62c","level":"error"}
+{"message":"Bookmark with id cd7f828a-448a-4598-aefa-a79ae4aec62c deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/2340d089-7d4e-4331-a9fa-ee6896505891","level":"error"}
+{"message":"Note with id 2340d089-7d4e-4331-a9fa-ee6896505891 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/2bc37941-f9e7-45ae-9d49-001810e68883","level":"error"}
+{"message":"Note with id 2bc37941-f9e7-45ae-9d49-001810e68883 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/3fe76604-4d15-46c0-abb5-66a7f1b2887e","level":"error"}
+{"message":"Note with id 3fe76604-4d15-46c0-abb5-66a7f1b2887e deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes/06dc8990-2d04-4e7a-9798-377e171a8a3d","level":"error"}
+{"message":"Note with id 06dc8990-2d04-4e7a-9798-377e171a8a3d deleted.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders/","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/","level":"error"}
+{"message":"New note created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/folders","level":"error"}
